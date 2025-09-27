@@ -31,8 +31,8 @@ Players find hourglasses labeled with different durations.
 
 Puzzle: Convert the following:
 
-120 minutes = ? hours
-3 hours = ? minutes
+- 120 minutes = ? hours
+- 3 hours = ? minutes
 ✅ Math Focus: Time conversions
 ✅ Answers: 2 hours, 180 minutes
 
