@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="300" height="420" viewBox="0 0 300 420" xmlns="http://www.w3.org/2000/svg">
+  <!-- Card Background -->
+  <rect width="300" height="420" rx="15" ry="15" fill="#f5f0e6" stroke="#333" stroke-width="2"/>
+
+  <!-- Title Bar -->
+  <rect x="10" y="10" width="280" height="40" rx="5" ry="5" fill="#3b2e2a"/>
+  <text x="150" y="35" font-family="Georgia" font-size="18" fill="#fff" text-anchor="middle">Item Name</text>
+
+  <!-- Image Placeholder -->
+  <rect x="25" y="60" width="250" height="150" rx="10" ry="10" fill="#ddd" stroke="#999" stroke-dasharray="4"/>
+  <text x="150" y="135" font-family="Georgia" font-size="14" fill="#666" text-anchor="middle">[Item Image]</text>
+
+  <!-- Cost Box -->
+  <rect x="10" y="220" width="80" height="30" rx="5" ry="5" fill="#e0c060" stroke="#333"/>
+  <text x="50" y="240" font-family="Georgia" font-size="14" fill="#000" text-anchor="middle">Cost: 5 GC</text>
+
+  <!-- Divider -->
+  <line x1="10" y1="260" x2="290" y2="260" stroke="#333" stroke-width="1"/>
+
+  <!-- Effect Description -->
+  <foreignObject x="10" y="270" width="280" height="130">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <p style="font-family: Georgia; font-size: 14px; color: #000; margin: 0;">
+        Effect: Allows the DM to give a helpful hint for a puzzle.
+      </p>
+    </body>
+  </foreignObject>
+</svg>
