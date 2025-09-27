@@ -8,7 +8,7 @@ The adventure focuses on:
 - Calculating elapsed time
 - Converting time units
 
-##🕰️ Scene 1: The Clockwork Gate
+## 🕰️ Scene 1: The Clockwork Gate
 A giant clock blocks the entrance. It shows the time as 3:45.
 
 Puzzle:
