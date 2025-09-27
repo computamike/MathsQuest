@@ -10,16 +10,10 @@ Each player chooses a character with a simple stat sheet:
 
 |   | s |   |
 |-------|---|---|
-| **a** | s |   |
-| **a** | s |   |
-
-
-
-|--|--|
-|__Name:__|(e.g. Lira the Lightning Wizard)|
-|__HP__:| 10|
-|__Attack__:| Roll 1d6 + 2|
-|__Special Skill__:| (e.g. “Can reroll one failed math puzzle per game”)|
+| **Name** | (e.g. Lira the Lightning Wizard)|   |
+| **HP** | 10 |   |
+| **Attack** |  Roll 1d6 + 2|
+| **Inventory** | |
 
 
 # 🗺️ Adventure Outline
