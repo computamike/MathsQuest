@@ -1,5 +1,5 @@
-🌊 Decimal Depths Adventure
-📘 Introduction
+# 🌊 Decimal Depths Adventure
+## 📘 Introduction
 Welcome to Decimal Depths! In this underwater adventure, players aged 7–11 explore the sunken ruins of Numeria to recover the lost Pearl of Precision.
 To succeed, they must solve decimal-based puzzles involving place value, rounding, and comparing decimals.
 
