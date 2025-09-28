@@ -71,6 +71,129 @@ What is it?”
 
 ✅ Math focus: Reasoning and number properties
 
+
+
+# 🤝⚔️ Encounters
+Along the way the players may encounter NPC's - there are positive and negative encounters (each encounter is linked to a KS1 learning goal).
+
+Movement within the Caverns is based on Dice rolls - on non-task spaces, DM rolls for an encounter - and a positive or negative encounter is presented.
+⚔️ Combat Encounters (KS1-Aligned)
+1. The Number Goblin
+“I’ll only let you pass if you count to 30 without stopping!”
+
+- KS1 Link: Counting forwards to 100
+
+2. The Subtraction Slime
+“I’ll splat you unless you subtract me away!”
+
+- Challenge: 15 − 7
+- KS1 Link: Subtraction within 20
+
+3. The Pattern Pixie
+“Finish my pattern or I’ll vanish with your treasure!”
+
+- Challenge: 2, 4, 6, __, 10
+- KS1 Link: Recognising and continuing patterns
+
+4. The Place Value Phantom
+“I hide numbers in tens and ones. Can you find me?”
+
+- Challenge: What is 42 made of? (40 + 2)
+- KS1 Link: Place value to 100
+
+5. The Shape Shifter
+“I change shape! Name me or be confused forever!”
+
+- Challenge: Identify a triangle, square, and circle
+- KS1 Link: Recognising and naming 2D shapes
+
+6. The Money Monster
+“Pay me exactly 20p or I’ll block your path!”
+
+- Challenge: Use coins to make 20p
+- KS1 Link: Recognising coins and solving money problems
+
+7. The Time Troll
+“Tell me when lunchtime is, or I’ll eat your snack!”
+
+- Challenge: Read a clock showing 12:00
+- KS1 Link: Telling time to the hour and half-hour
+
+8. The Counting Kraken
+“I have 8 tentacles. I lost 3. How many now?”
+
+- KS1 Link: Subtraction and problem solving
+
+9. The Multiplication Minotaur
+“I stomp in 5s. Can you keep up?”
+
+- Challenge: Count in 5s to 50
+- KS1 Link: Counting in 2s, 5s, and 10s
+
+10. The Volume Vampire
+“Which bottle holds more? Choose wisely!”
+
+- KS1 Link: Comparing capacity
+
+🤝 Friendly Encounters (KS1-Aligned)
+1. The Lost Ladybird
+“I forgot how many spots I have!”
+
+- Challenge: Count and record
+- KS1 Link: Counting and number recognition
+
+2. The Helpful Hedgehog
+“I want to share 10 berries with 2 friends.”
+
+- KS1 Link: Division and sharing
+
+3. The Rainbow Rabbit
+“I hop in 2s. Can you hop with me?”
+
+- KS1 Link: Counting in 2s
+
+4. The Puzzle Pixie
+“I dropped my number stones!”
+
+- Challenge: Sort numbers from smallest to largest
+- KS1 Link: Ordering numbers
+
+5. The Singing Snail
+“I sing in 4s. Help me count my beats!”
+
+- KS1 Link: Counting in multiples
+
+6. The Friendly Fox
+“I’m building a den. I need 3 more sticks!”
+
+- KS1 Link: Addition and problem solving
+
+7. The Curious Cloud
+“I float at number 7. What’s one more?”
+
+- KS1 Link: Addition of 1
+
+8. The Wise Wizard
+“I forgot my favourite number. It’s between 4 and 6!”
+
+- KS1 Link: Number comparison
+
+9. The Shape Fairy
+“Help me sort my shapes!”
+
+- KS1 Link: Sorting and describing shapes
+
+10. The Measuring Mouse
+“Which ribbon is longest?”
+
+- KS1 Link: Comparing length
+
+
+
+
+
+
+
 🎁 Rewards
 Crystal of Calculation: Restores balance to the land and gives each hero a “+1 to Maths Confidence” token.
 Bonus XP for teamwork and creative thinking.
