@@ -90,10 +90,28 @@ Wisdom lights the way to home."*
 Final Scene: Mathgob’s Challenge
 Mathgob appears and offers a deal: solve his final challenge, and he’ll return the Crystal.
 
-“I’m thinking of a number.
-It’s more than 10, less than 20.
-It’s a multiple of 3.
-What is it?”
+## Riddle 1:
+"I’m thinking of a number, can you see?
+It’s more than ten, but less than twenty.
+It’s in the three times table too—
+Can you guess it? I bet you do!"
+(Answer: 12, 15, or 18)
+
+
+## Riddle 2:
+"Two numbers together make a sum,
+Add them up and tell me the one.
+One is five, the other is seven,
+What’s the total? Is it eleven?"
+(Answer: 12)
+
+
+## Riddle 3:
+"I’m thinking of a number, here’s a clue:
+It’s less than ten, but more than two.
+Add two more and you’ll make eight—
+What’s my number? Don’t be late!"
+(Answer: 6)
 
 ✅ Math focus: Reasoning and number properties
 
