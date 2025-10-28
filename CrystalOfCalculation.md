@@ -20,8 +20,14 @@ Each player chooses a character with a simple stat sheet:
 Scene 1: The Riddle Bridge
 To cross the bridge, the players must solve a riddle from the troll:
 
-“I have three bags of gold. One has 12 coins, one has 8, and one has 5.
-I give 7 coins to my brother. How many do I have left?”
+“I had three bags of gold, all shiny and bright,
+One held twelve coins, a splendid sight.
+One had eight, and one just five,
+Together they made my wealth come alive.
+But I gave away seven, a generous deed,
+To help my brother in his time of need.
+Now count what’s left, don’t be misled—
+How many coins stay in my stead?”
 
 # Rules
 ## 💥 When Does a Player Lose HP?
@@ -49,9 +55,16 @@ Give each player a Math Shield they can use once per game to avoid losing HP if 
 Scene 2: The Puzzle Door
 A stone door blocks the way. It has three levers labeled:
 
-A: 3 × 4
-B: 5 + 7
-C: 18 ÷ 2
+A sign is inscribed at the side : 
+
+“Two truths unlock the way ahead,
+Their sum must match the number said.
+Choose with care, and you’ll be free—
+But flip the wrong, and cursed you’ll be.”
+
+A: 40 + 2
+B: 21 * 2
+C: 34 + 9
 Only one lever opens the door. The others trigger a trap (harmless, but funny — like glitter explosion).
 
 ✅ Math focus: Multiplication and division
