@@ -87,31 +87,68 @@ Wisdom lights the way to home."*
 
 ✅ Math focus: Number patterns and logic
 
-Final Scene: Mathgob’s Challenge
-Mathgob appears and offers a deal: solve his final challenge, and he’ll return the Crystal.
+## Scene: Mathgob’s Challenge
+(The adventurer enters a dimly lit chamber. A glowing Crystal rests on a pedestal. Mathgob, a mischievous goblin with a crooked grin, leaps into view.)
 
-## Riddle 1:
-"I’m thinking of a number, can you see?
+Intro Speech
+"Hee-hee-hee! Welcome, brave adventurer… or should I say, foolish snack?
+You want the Crystal? Oh, you do! But Mathgob never gives without a game!
+Solve my riddles—three of them—and maybe, just maybe, you’ll leave with your shiny prize.
+Fail… and my goblins will dance on your bones! Hee-hee!"
+
+Riddle 1
+"First riddle! Listen well, or lose your head!
+I’m thinking of a number, can you see?
 It’s more than ten, but less than twenty.
 It’s in the three times table too—
 Can you guess it? I bet you do!"
-(Answer: 12, 15, or 18)
+(Answer: 12, 15, or 18 — choose one as correct.)
+Taunts if slow:
+"Tick-tock, tick-tock! My goblins are getting hungry!"
+"Do you need a counting book, little hero?"
+Taunts if wrong:
+"Ha! Wrong! That answer smells worse than a troll’s sock!"
+"Oops! Did you forget how to count? Hee-hee!"
 
-
-## Riddle 2:
-"Two numbers together make a sum,
+Riddle 2
+"Second riddle! Sharpen your wits!
+Two numbers together make a sum,
 Add them up and tell me the one.
 One is five, the other is seven,
 What’s the total? Is it eleven?"
 (Answer: 12)
+Taunts if slow:
+"Hurry up! My goblins are sharpening their forks!"
+"Time’s slipping away like gold in a goblin’s pocket!"
+Taunts if wrong:
+"Oh dear! Numbers aren’t your friends, are they?"
+"Wrong again! My goblins are laughing so hard they’re choking!"
 
-
-## Riddle 3:
-"I’m thinking of a number, here’s a clue:
+Riddle 3
+"Final riddle! Fail this, and the Crystal stays mine!
+I’m thinking of a number, here’s a clue:
 It’s less than ten, but more than two.
 Add two more and you’ll make eight—
 What’s my number? Don’t be late!"
 (Answer: 6)
+Taunts if slow:
+"Do you need a nap? Or shall I fetch you some goblin fingers to count on?"
+"Math waits for no adventurer! Move, or lose!"
+Taunts if wrong:
+"Ha-ha! Wrong! That’s not even close—did you trip over your own brain?"
+"That answer smells worse than a goblin stew!"
+
+### Victory Speech
+"Well, well, clever adventurer! You’ve cracked my riddles and twisted my tongue!
+The Crystal is yours—take it, before I change my goblin mind!
+But remember this day, for Mathgob never forgets…
+Next time, my puzzles will be trickier, my laughter louder, and my goblins hungrier!
+Go now, hero—before I start asking harder sums!"
+
+### Defeat Speech
+"Hee-hee-hee! Wrong, wrong, wrong! The Crystal stays with Mathgob!
+You’ve failed the test, and now my goblins will feast on your folly!
+Run if you can… but they’re faster than your thinking!"
 
 ✅ Math focus: Reasoning and number properties
 
