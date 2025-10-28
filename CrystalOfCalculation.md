@@ -15,20 +15,6 @@ Each player chooses a character with a simple stat sheet:
 | **Attack** |  Roll 1d6 + 2|
 | **Inventory** | |
 
-
-# 🗺️ Adventure Outline
-Scene 1: The Riddle Bridge
-To cross the bridge, the players must solve a riddle from the troll:
-
-“I had three bags of gold, all shiny and bright,
-One held twelve coins, a splendid sight.
-One had eight, and one just five,
-Together they made my wealth come alive.
-But I gave away seven, a generous deed,
-To help my brother in his time of need.
-Now count what’s left, don’t be misled—
-How many coins stay in my stead?”
-
 # Rules
 ## 💥 When Does a Player Lose HP?
 ## You can have players lose 1 or 2 HP when:
@@ -48,6 +34,21 @@ You can also include ways to heal:
 
 ## 🧠 Optional Rule: “Math Shield”
 Give each player a Math Shield they can use once per game to avoid losing HP if they explain their thinking, even if their answer is wrong. This encourages reasoning and confidence.
+
+
+# 🗺️ Adventure Outline
+Scene 1: The Riddle Bridge
+To cross the bridge, the players must solve a riddle from the troll:
+
+“I had three bags of gold, all shiny and bright,
+One held twelve coins, a splendid sight.
+One had eight, and one just five,
+Together they made my wealth come alive.
+But I gave away seven, a generous deed,
+To help my brother in his time of need.
+Now count what’s left, don’t be misled—
+How many coins stay in my stead?”
+
 
 
 ✅ Math focus: Addition and subtraction
@@ -160,87 +161,103 @@ Along the way the players may encounter NPC's - there are positive and negative 
 Movement within the Caverns is based on Dice rolls - on non-task spaces, DM rolls for an encounter - and a positive or negative encounter is presented.
 ⚔️ Combat Encounters (KS1-Aligned)
 1. The Number Goblin
-“I’ll only let you pass if you count to 30 without stopping!”
+DM: "A crooked goblin leaps from the shadows, grinning wide.
+"Count to thirty, don’t you stop,
+Or I’ll block you with a goblin hop!"
 
 - KS1 Link: Counting forwards to 100
 
 2. The Subtraction Slime
-“I’ll splat you unless you subtract me away!”
+"I’ll splat and squish without delay,
+Unless you subtract and make me go away!"
 
 - Challenge: 15 − 7
 - KS1 Link: Subtraction within 20
 
 3. The Pattern Pixie
-“Finish my pattern or I’ll vanish with your treasure!”
+"My pattern’s broken, oh what a fright!
+Fix it now and set it right!"
 
 - Challenge: 2, 4, 6, __, 10
 - KS1 Link: Recognising and continuing patterns
 
 4. The Place Value Phantom
-“I hide numbers in tens and ones. Can you find me?”
+"I hide in tens and ones, you see,
+Find my secret and you’ll set me free!"
 
 - Challenge: What is 42 made of? (40 + 2)
 - KS1 Link: Place value to 100
 
 5. The Shape Shifter
-“I change shape! Name me or be confused forever!”
+"I change my shape, I twist and twirl,
+Name me now or lose your world!"
 
 - Challenge: Identify a triangle, square, and circle
 - KS1 Link: Recognising and naming 2D shapes
 
 6. The Money Monster
-“Pay me exactly 20p or I’ll block your path!”
+"Pay me twenty pence, no more, no less,
+Or I’ll block your way and cause distress!"
 
 - Challenge: Use coins to make 20p
 - KS1 Link: Recognising coins and solving money problems
 
 7. The Time Troll
-“Tell me when lunchtime is, or I’ll eat your snack!”
+"Tell me when lunch begins to chime,
+Or I’ll eat your snack—it’s feeding time!"
 
 - Challenge: Read a clock showing 12:00
 - KS1 Link: Telling time to the hour and half-hour
 
 8. The Counting Kraken
-“I have 8 tentacles. I lost 3. How many now?”
+"I had eight arms, but three are gone,
+Count what’s left before I move on!"
 
 - KS1 Link: Subtraction and problem solving
 
 9. The Multiplication Minotaur
-“I stomp in 5s. Can you keep up?”
+"I stomp in fives, I roar and shout,
+Count with me or you’ll miss out!"
 
 - Challenge: Count in 5s to 50
 - KS1 Link: Counting in 2s, 5s, and 10s
 
 10. The Volume Vampire
-“Which bottle holds more? Choose wisely!”
+"Which bottle’s bigger? Choose with care,
+Pick the wrong one—I’ll give you a scare!"
 
 - KS1 Link: Comparing capacity
 
 🤝 Friendly Encounters (KS1-Aligned)
 1. The Lost Ladybird
-“I forgot how many spots I have!”
+"I’ve lost my spots, oh what a day!
+Count them quick and save my play!"
 
 - Challenge: Count and record
 - KS1 Link: Counting and number recognition
 
 2. The Helpful Hedgehog
-“I want to share 10 berries with 2 friends.”
+"I’ve ten berries and two friends near,
+Share them out and make it clear!"
 
 - KS1 Link: Division and sharing
 
 3. The Rainbow Rabbit
-“I hop in 2s. Can you hop with me?”
+"I hop in twos, I leap with glee,
+Hop along and count with me!"
 
 - KS1 Link: Counting in 2s
 
 4. The Puzzle Pixie
-“I dropped my number stones!”
+"My number stones are all askew,
+Sort them now from small to new!"
 
 - Challenge: Sort numbers from smallest to largest
 - KS1 Link: Ordering numbers
 
 5. The Singing Snail
-“I sing in 4s. Help me count my beats!”
+"I sing in fours, a steady beat,
+Count along and make it neat!"
 
 - KS1 Link: Counting in multiples
 
@@ -250,22 +267,26 @@ Movement within the Caverns is based on Dice rolls - on non-task spaces, DM roll
 - KS1 Link: Addition and problem solving
 
 7. The Curious Cloud
-“I float at number 7. What’s one more?”
+"I float at seven, light as air,
+Add one more—what number’s there?"
 
 - KS1 Link: Addition of 1
 
 8. The Wise Wizard
-“I forgot my favourite number. It’s between 4 and 6!”
+"My favourite number hides from view,
+It’s between four and six—can you guess who?"
 
 - KS1 Link: Number comparison
 
 9. The Shape Fairy
-“Help me sort my shapes!”
+"Shapes are muddled, oh what a mess!
+Sort them now and I’ll bless your quest!"
 
 - KS1 Link: Sorting and describing shapes
 
 10. The Measuring Mouse
-“Which ribbon is longest?”
+"Two ribbons lie, which one’s the best?
+Pick the longest and pass my test!"
 
 - KS1 Link: Comparing length
 
