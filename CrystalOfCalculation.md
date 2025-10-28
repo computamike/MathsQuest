@@ -37,24 +37,25 @@ Give each player a Math Shield they can use once per game to avoid losing HP if 
 
 
 # 🗺️ Adventure Outline
-Scene 1: The Riddle Bridge
-To cross the bridge, the players must solve a riddle from the troll:
+## Scene 1: The Riddle Bridge
+*The players arrive at a moss-covered stone bridge. A troll blocks the path, leaning on a crooked staff.*
 
-“I had three bags of gold, all shiny and bright,
-One held twelve coins, a splendid sight.
-One had eight, and one just five,
-Together they made my wealth come alive.
-But I gave away seven, a generous deed,
-To help my brother in his time of need.
-Now count what’s left, don’t be misled—
-How many coins stay in my stead?”
+**Troll:** "I had three bags of gold, all shiny and bright.  
+One held twelve coins, a splendid sight.  
+One had eight, and one just five,  
+Together they made my wealth come alive.  
+But I gave away seven, a generous deed,  
+To help my brother in his time of need.  
+Now count what’s left, don’t be misled—  
+How many coins stay in my stead?"
 
+*The troll taps his foot impatiently, waiting for your answer.*
 
 
 ✅ Math focus: Addition and subtraction
 
-Scene 2: The Puzzle Door
-A stone door blocks the way. It has three levers labeled:
+## Scene 2: The Puzzle Door
+A stone door blocks the way. It has three levers:
 
 A sign is inscribed at the side : 
 
@@ -70,10 +71,10 @@ Only one lever opens the door. The others trigger a trap (harmless, but funny �
 
 ✅ Math focus: Multiplication and division
 
-Scene 3: The Goblin’s Maze
+## Scene 3: The Goblin’s Maze
 Players must navigate a maze with numbered tiles. They can only step on tiles that are even numbers or multiples of 3.
 
-"Warning, adventurer! You now stand at the threshold of the Goblin’s Maze. A perilous path lies before you, paved with numbered stones. But beware—only those who tread wisely shall escape unscathed."
+**DM:** "Warning, adventurer! You now stand at the threshold of the Goblin’s Maze. A perilous path lies before you, paved with numbered stones. But beware—only those who tread wisely shall escape unscathed."
 
 on the archway is the following inscription
 
@@ -153,7 +154,43 @@ Run if you can… but they’re faster than your thinking!"
 
 ✅ Math focus: Reasoning and number properties
 
+## 🎲 KS1 Room Encounter Table (Roll 1d6)
 
+| Roll | What’s in the Room?     | Description                                                                 |
+|------|--------------------------|-----------------------------------------------------------------------------|
+| 1    | 🧹 Empty Room            | Nothing here but dust and cobwebs. Maybe a clue is hiding!                 |
+| 2    | 💰 Treasure Chest        | A shiny chest! Solve a number puzzle to open it and find a reward.         |
+| 3    | 🐭 Friendly Creature     | A kind animal offers help if you answer their maths question.              |
+| 4    | 👹 Sneaky Creature       | A cheeky monster blocks your way! Solve their puzzle to pass safely.       |
+| 5    | ⚠️ Silly Trap            | A banana peel or falling bucket! Solve a quick maths challenge to dodge it.|
+| 6    | ✨ Magic Surprise         | Something magical happens—maybe you get extra HP or teleport forward!      |
+
+
+## ⚠️ KS1 Silly Trap Table (Roll 1d6)
+
+| Roll | Trap Name             | Description & Escape Challenge                                              |
+|------|-----------------------|------------------------------------------------------------------------------|
+| 1    | 🍌 Banana Slip        | You nearly slip on a banana peel! Solve an addition problem to regain balance. |
+| 2    | 🪣 Bucket Bonk        | A bucket falls from above! Count how many buckets are stacked to dodge it.    |
+| 3    | 🧼 Slippery Soap      | Soap spills across the floor! Solve a subtraction puzzle to tiptoe through.   |
+| 4    | 🐭 Squeaky Surprise   | A mouse squeaks and startles you! Identify the missing number to calm down.   |
+| 5    | 🐸 Froggy Flip         | A frog leaps out and lands on your head! Count how many hops it takes to escape. 
+| 6    | 🎈 Balloon Burst      | Balloons pop loudly! Count in 2s or 5s to escape the noisy trap.              |
+
+
+## ✨ KS1 Magic Surprise Table (Roll 1d6)
+
+## ✨ KS1 Magic Surprise Table (Roll 1d6)
+
+| Roll | Magic Effect           | Description                                                                 |
+|------|------------------------|-----------------------------------------------------------------------------|
+| 1    | 🍬 Sweet Heal          | A magical sweet appears! You regain 1 HP.                                   |
+| 2    | 🧠 Brain Boost         | You feel super smart! Get a hint on your next puzzle.                       |
+| 3    | 🧺 Puzzle Pouch        | You find a pouch that stores one puzzle answer you can use later.           |
+| 4    | 🕯️ Candle of Clarity   | A glowing candle reveals a hidden number or pattern in your next challenge. |
+| 5    | 🧤 Gloves of Focus     | These fuzzy gloves help you concentrate—skip one puzzle without penalty.    |
+| 6    | 🐸 Croak of Courage    | A frog croaks a rhyme that makes you brave—ignore one trap this game.       |
+               |
 
 # 🤝⚔️ Encounters
 Along the way the players may encounter NPC's - there are positive and negative encounters (each encounter is linked to a KS1 learning goal).
