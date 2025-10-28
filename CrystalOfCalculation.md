@@ -72,6 +72,19 @@ Only one lever opens the door. The others trigger a trap (harmless, but funny �
 Scene 3: The Goblin’s Maze
 Players must navigate a maze with numbered tiles. They can only step on tiles that are even numbers or multiples of 3.
 
+"Warning, adventurer! You now stand at the threshold of the Goblin’s Maze. A perilous path lies before you, paved with numbered stones. But beware—only those who tread wisely shall escape unscathed."
+
+on the archway is the following inscription
+
+*"Numbers mark the path you tread,
+Choose with care or join the dead.
+Step on evens or threes that divide,
+These are safe—so walk with pride.
+But stray to odds, the goblins cheer,
+One false move and doom is near.
+Think, adventurer, before you roam—
+Wisdom lights the way to home."*
+
 ✅ Math focus: Number patterns and logic
 
 Final Scene: Mathgob’s Challenge
